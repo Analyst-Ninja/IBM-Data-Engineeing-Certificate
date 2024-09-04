@@ -1,0 +1,32 @@
+2024-Aug-10:00:18:58 | ETL Started.
+2024-Aug-10:00:18:58 | Extraction Phase Started.
+2024-Aug-10:00:18:59 | Extraction Phase Completed.
+2024-Aug-10:00:18:59 | Transformation Phase Started.
+2024-Aug-10:00:18:59 | Transformation Phase Completed.
+2024-Aug-10:00:18:59 | Loading to CSV file.
+2024-Aug-10:00:18:59 | Loading Completed to CSV file.
+2024-Aug-10:00:18:59 | Establishing connection to DB.
+2024-Aug-10:00:18:59 | Connected to Banks.db.
+2024-Aug-10:00:18:59 | Table creation Started.
+2024-Aug-10:00:18:59 | Table created in Banks.db.
+2024-Aug-10:00:18:59 | Running Query.
+2024-Aug-10:00:18:59 | Query has run successfully.
+2024-Aug-10:00:18:59 | Closing DB Connection.
+2024-Aug-10:00:18:59 | Connection Closed.
+2024-Aug-10:00:18:59 | ETL Job Completed.
+2024-Aug-10:00:33:23 | ETL Started.
+2024-Aug-10:00:33:23 | Extraction Phase Started.
+2024-Aug-10:00:33:26 | Extraction Phase Completed.
+2024-Aug-10:00:33:26 | Transformation Phase Started.
+2024-Aug-10:00:33:26 | Transformation Phase Completed.
+2024-Aug-10:00:33:26 | Loading to CSV file.
+2024-Aug-10:00:33:26 | Loading Completed to CSV file.
+2024-Aug-10:00:33:26 | Establishing connection to DB.
+2024-Aug-10:00:33:26 | Connected to Banks.db.
+2024-Aug-10:00:33:26 | Table creation Started.
+2024-Aug-10:00:33:26 | Table created in Banks.db.
+2024-Aug-10:00:33:26 | Running Query.
+2024-Aug-10:00:33:26 | Query has run successfully.
+2024-Aug-10:00:33:26 | Closing DB Connection.
+2024-Aug-10:00:33:26 | Connection Closed.
+2024-Aug-10:00:33:26 | ETL Job Completed.

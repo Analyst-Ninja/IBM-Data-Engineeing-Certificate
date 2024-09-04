@@ -1,0 +1,8 @@
+24-08-08-20:54:13 | ETL Job Started.
+24-08-08-20:54:13 | Extraction Phase Started.
+24-08-08-20:54:13 | Extraction Phase Completed.
+24-08-08-20:54:13 | Transformation Phase Started
+24-08-08-20:54:13 | Transformation Phase Completed
+24-08-08-20:54:13 | Loading Phase Started
+24-08-08-20:54:13 | Loading Phase Completed
+24-08-08-20:54:13 | ETL Job Completed.

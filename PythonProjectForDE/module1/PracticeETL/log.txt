@@ -1,0 +1,16 @@
+24-Aug-08:22-12-00 | ETL Job Started.
+24-Aug-08:22-12-00 | Extraction Phase Started
+24-Aug-08:22-12-00 | Extraction Phase Completed
+24-Aug-08:22-12-00 | Transformation Phase Started
+24-Aug-08:22-12-00 | Transformation Phase Completed
+24-Aug-08:22-12-00 | Loading Phase Started
+24-Aug-08:22-12-00 | Loading Phase Completed
+24-Aug-08:22-12-00 | ETL Job Completed.
+24-Aug-08:22-13-08 | ETL Job Started.
+24-Aug-08:22-13-08 | Extraction Phase Started
+24-Aug-08:22-13-08 | Extraction Phase Completed
+24-Aug-08:22-13-08 | Transformation Phase Started
+24-Aug-08:22-13-08 | Transformation Phase Completed
+24-Aug-08:22-13-08 | Loading Phase Started
+24-Aug-08:22-13-08 | Loading Phase Completed
+24-Aug-08:22-13-08 | ETL Job Completed.

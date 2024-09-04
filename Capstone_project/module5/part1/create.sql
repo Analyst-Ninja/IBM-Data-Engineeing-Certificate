@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS sales_data(
+    rowid INTEGER PRIMARY KEY NOT NULL,
+    product_id INTEGER NOT NULL,
+    customer_id INTEGER NOT NULL,
+    quantity INTEGER,
+    price decimal DEFAULT 0.0 NOT NULL,
+    timestamp TIMESTAMP WITHOUT TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
+)

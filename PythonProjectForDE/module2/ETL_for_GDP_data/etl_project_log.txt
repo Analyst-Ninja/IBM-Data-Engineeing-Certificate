@@ -1,0 +1,16 @@
+24-Aug-09:18-14-53 | ETL Started.
+24-Aug-09:18-14-53 | Extraction Phase Started.
+24-Aug-09:18-14-55 | Extraction Phase Completed.
+24-Aug-09:18-14-55 | Transformation Phase Started.
+24-Aug-09:18-14-55 | Transformation Phase Completed.
+24-Aug-09:18-14-55 | Loading to CSV file.
+24-Aug-09:18-14-55 | Loading Completed to CSV file.
+24-Aug-09:18-14-55 | Establishing connection to DB.
+24-Aug-09:18-14-55 | Connected to World_Economies.db.
+24-Aug-09:18-14-55 | Table creation Started.
+24-Aug-09:18-14-55 | Table created in World_Economies.db.
+24-Aug-09:18-14-55 | Running Query.
+24-Aug-09:18-14-55 | Query has run successfully.
+24-Aug-09:18-14-55 | Closing DB Connection.
+24-Aug-09:18-14-55 | Connection Closed.
+24-Aug-09:18-14-55 | ETL Job Completed.
